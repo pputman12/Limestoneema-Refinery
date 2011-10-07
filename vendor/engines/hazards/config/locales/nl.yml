@@ -1,0 +1,21 @@
+nl:
+  plugins:
+    hazards:
+      title: Hazards
+  admin:
+    hazards:
+      actions:
+        create_new: Maak een nieuwe Hazard
+        reorder: Wijzig de volgorde van de Hazards
+        reorder_done: Klaar met het wijzingen van de volgorde van de Hazards
+      records:
+        title: Hazards
+        sorry_no_results: Helaas! Er zijn geen resultaten gevonden.
+        no_items_yet: Er zijn nog geen Hazards. Druk op 'Maak een nieuwe Hazard' om de eerste aan te maken.
+      hazard:
+        view_live_html: Bekijk deze hazard op de website <br/><em>(opent een nieuw venster)</em>
+        edit: Bewerk deze hazard
+        delete: Verwijder deze hazard voor eeuwig
+  hazards:
+    show:
+      other: Andere Hazards

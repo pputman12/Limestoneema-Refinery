@@ -1,0 +1,25 @@
+lolcat:
+  shared:
+    admin:
+      image_picker:
+        image: IMAGE
+  plugins:
+    hazards:
+      title: Hazards
+  admin:
+    hazards:
+      actions:
+        create_new: CREATE NEW Hazard
+        reorder: REORDR Hazards
+        reorder_done: DUN REORDERIN Hazards
+      records:
+        title: Hazards
+        sorry_no_results: SRY! THAR R NO RESULTS FINDZ.
+        no_items_yet: THAR R NO Hazards YET. CLICK "CREATE NEW Hazard" 2 ADD UR FURST hazard.
+      hazard:
+        view_live_html: VIEW DIS hazard LIV <BR/><EM>(OPENS IN NEW WINDOW)</EM>
+        edit: EDIT DIS hazard
+        delete: REMOOV DIS hazard FOREVR
+  hazards:
+    show:
+      other: OTHR Hazards

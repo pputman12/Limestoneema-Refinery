@@ -1,0 +1,21 @@
+nb:
+  plugins:
+    hazards:
+      title: Hazards
+  admin:
+    hazards:
+      actions:
+        create_new: Lag en ny Hazard
+        reorder: Endre rekkefølgen på Hazards
+        reorder_done: Ferdig å endre rekkefølgen Hazards
+      records:
+        title: Hazards
+        sorry_no_results: Beklager! Vi fant ikke noen resultater.
+        no_items_yet: Det er ingen Hazards enda. Klikk på "Lag en ny Hazard" for å legge til din første hazard.
+      hazard:
+        view_live_html: Vis hvordan denne hazard ser ut offentlig <br/><em>(åpner i et nytt vindu)</em>
+        edit: Rediger denne hazard
+        delete: Fjern denne hazard permanent
+  hazards:
+    show:
+      other: Andre Hazards
